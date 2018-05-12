@@ -22,6 +22,8 @@ creator:
     - http://en.wikipedia.org/wiki/Herbert_Strang
     - http://www.gutenberg.org/ebooks/author/39124
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40364#The-Blue-Raider--A-Tale-of-Adventure-in-the-Southern-Seas
 gutenberg_issued: '2012-07-28'
 gutenberg_type: Text
 identifiers:
